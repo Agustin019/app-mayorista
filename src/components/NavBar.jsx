@@ -12,7 +12,7 @@ export default function Navbar() {
   }
   return (
     <>
-      <div className='flex px-5 md:px-2  justify-between  items-center  shadow'>
+      <div className='flex px-5 md:px-2  justify-between items-center  shadow'>
 
         <div className='flex justify-between items-center w-[70%] px-4'>
           <div className='flex items-center text-indigo-500 text-xl gap-x-2'>
